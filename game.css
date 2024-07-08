@@ -1,0 +1,15 @@
+div{ 
+    background-color:darkgrey;
+    color:black;
+    align: center;
+    border: 2px black solid;
+}
+
+.start_div {
+    width: 200px;
+    height: max-content;
+    margin-top: 1000px;
+}
+.game_with_bot {
+    
+}
